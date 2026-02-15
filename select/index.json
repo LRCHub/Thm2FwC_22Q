@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サマータイムマシーン",
+  "base_artist": "THE BOY MEETS GIRLS",
+  "createdAt": "2026-02-15T14:48:22.318092Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サマータイムマシーン",
+      "artist": "THE BOY MEETS GIRLS",
+      "has_synced": false,
+      "path": "select/pl_01_サマータイムマシーン_THE_BOY_MEETS_GIRLS.txt"
+    }
+  ]
+}
